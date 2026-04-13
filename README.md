@@ -67,13 +67,4 @@ Ao final das 5 rodadas, vence quem acumulou mais pontos.
 
 ---
 
-## 📦 Como executar
-
-No momento este projeto ainda está em desenvolvimento.  
-Assim que os arquivos principais (`index.js` ou `index.html`) forem criados, será possível rodar o código com os seguintes passos:
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/Projeto-mario-kard.git
-
 
